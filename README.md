@@ -24,7 +24,7 @@ Great for tracking:
 
 ### Installation
 
-* Download and unzip the latest version of Packrat at 
+* Download and unzip the latest version of Packrat at https://github.com/Mr-Sithel/packrat/releases/
 * Copy the `packrat` folder inside of the `packrat-main` folder into your Ashita addons directory
 * You can load the addon by typing `/load addon packrat`.  It is recommended you add this line to the appropriate place in `scripts/default.txt`
 
