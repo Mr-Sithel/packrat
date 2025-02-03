@@ -26,7 +26,7 @@ Great for tracking:
 * You can also download a simple horizontal version that has no icons and be put at the top or bottom of your screen.
 * It installs the same way, just create a `packrath` folder and put the `packrath.lua` inside of it.
 * In game load it by typing `/load addon packrath`. It is recommended you add this line to the appropriate place in `scripts/default.txt`
-![Packrath screenshot](hhttps://github.com/Mr-Sithel/packrat/blob/60a168fc7d52e6d7a86fdfd07e06fdb2d28a61eb/packrat%20simple.PNG)
+![Packrath screenshot](https://github.com/Mr-Sithel/packrat/blob/ac8b595646c697c5b9a93feacb7bc1769b97fa5a/packrat%20simple.PNG?raw=true)
 
 ### Installation
 
