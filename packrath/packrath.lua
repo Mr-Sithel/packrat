@@ -1,5 +1,5 @@
 addon.name = "packrath";
-addon.author = "colorglut, (Thorny: Added tracking Wardrobe 1 & 2)";
+addon.author = "colorglut, (Added tracking Wardrobe 1 & 2 - Thx Thorny)";
 addon.version = "0.2.1";
 addon.desc = "simple horizontal version that tracks items in your inventory, Wardrobe and Wardrobe 2.";
 addon.link = "";
