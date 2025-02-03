@@ -22,6 +22,12 @@ Great for tracking:
 * Crystals
 * ...and more!
 
+### Horizontal Version Screenshot
+* You can also download a simple horizontal version that has no icons and be put at the top or bottom of your screen.
+* It installs the same way, just create a `packrath` folder and put the `packrath.lua` inside of it.
+* In game load it by typing `/load addon packrath`. It is recommended you add this line to the appropriate place in `scripts/default.txt`
+![Packrath screenshot](hhttps://github.com/Mr-Sithel/packrat/blob/60a168fc7d52e6d7a86fdfd07e06fdb2d28a61eb/packrat%20simple.PNG)
+
 ### Installation
 
 * Download and unzip the latest version of Packrat at https://github.com/Mr-Sithel/packrat/releases/
