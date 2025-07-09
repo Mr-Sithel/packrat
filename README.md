@@ -1,6 +1,6 @@
 ### Info
 
-Packrat was originally created and maintained by colorglut, who no longer seems to be active.
+Packrat was originally created and maintained by [Colorglut](https://github.com/colorglut/), who no longer seems to be active.
 I added the addon here to keep it alive but it is no longer maintained aside from the addition of tracking Wardrobe and Wardrobe 2 by [Thorny](https://github.com/ThornyFFXI).
 
 Packrat is a simple inventory item tracker addon for Ashita V4.  Open up its configuration, select the items you'd like to track, and enjoy!
