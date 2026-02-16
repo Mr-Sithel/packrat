@@ -7,6 +7,8 @@ Packrat is a simple inventory item tracker addon for Ashita V4.  Open up its con
 
 As of 2/2/2025 it still currently works on Horizon's private server with Ashita v4
 
+* Download and unzip the correct version of Packrat at [Releases](https://github.com/Mr-Sithel/packrat/releases/)
+
 ### Screenshot
 ![Packrat screenshot](https://user-images.githubusercontent.com/126125402/220799843-1313ee00-ba08-4ee2-9fe6-b9e1e35007b6.png)
 
@@ -30,11 +32,13 @@ Great for tracking:
 
 ### Installation
 
-* Download and unzip the latest version of Packrat at https://github.com/Mr-Sithel/packrat/releases/
-* Copy the `packrat` folder inside of the `packrat-main` folder into your Ashita addons directory
+* Download and unzip the correct version of Packrat at https://github.com/Mr-Sithel/packrat/releases/
+* Copy the `packrat` or `packrath` folder inside of the `Packrat (Interface vX.XX)` folder into your Ashita addons directory
+* Horizon is currently using `Packrat (Interface v4.16)`
 * You can load the addon by typing `/load addon packrat`.  It is recommended you add this line to the appropriate place in `scripts/default.txt`
 
 #### Credit
 Created in 2023 by colorglut.
 
-Added in 2025 Wardrobe and Wardrobe 2 by [Thorny](https://github.com/ThornyFFXI)
+- Added in 2025 Wardrobe and Wardrobe 2 by [Thorny](https://github.com/ThornyFFXI)
+- Thanks [Loonsies](https://github.com/loonsies) for the update to Interface v4.30
