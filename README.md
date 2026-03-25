@@ -17,7 +17,7 @@ As of 2/2/2025 it still currently works on Horizon's private server with Ashita 
 
 ## Screenshot
 
-![Packrat]()
+![Packrat](https://github.com/Mr-Sithel/packrat/blob/main/Example.png?raw=true)
 
 Great for tracking:
 
