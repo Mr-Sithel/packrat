@@ -1,6 +1,6 @@
 addon.name = "packrat";
 addon.author = "colorglut, (Thorny: Added tracking Wardrobe 1 & 2)";
-addon.version = "1.0";
+addon.version = "1.1";
 addon.desc = "Tracks items in your inventory, Wardrobe and Wardrobe 2.";
 addon.link = "";
 
@@ -40,6 +40,7 @@ local packrat = T{
 
     itemsPerColumn = 6
 }
+packrat.trackerVisible = true
 
 settings.register('settings', 'settings_update', function(s)
     if s then
@@ -333,7 +334,9 @@ ashita.events.register('d3d_present', 'present_cb', function ()
 
     if player ~= nil and player:GetMainJob() > 0 and player:GetIsZoning() == 0 then
         packrat.drawConfigurationWindow()
-        packrat.drawTrackerWindow()
+        if packrat.trackerVisible then
+            packrat.drawTrackerWindow()
+        end
     end
 end)
 
@@ -342,6 +345,14 @@ ashita.events.register('command', 'packrat_command', function(e)
     if #args == 0 then return end
 
     if args[1] == '/pr' or args[1] == '/packrat' then
+        
+        -- /pr h  --> toggle tracker visibility
+        if args[2] == 'h' then
+            packrat.trackerVisible = not packrat.trackerVisible
+            return true
+        end
+
+        -- default: toggle config window
         packrat.showConfiguration[1] = not packrat.showConfiguration[1]
         return true
     end
