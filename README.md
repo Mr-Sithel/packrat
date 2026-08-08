@@ -14,6 +14,10 @@ As of 2/2/2025 it still currently works on Horizon's private server with Ashita 
 - Added a vertical and horizontal mode all in one via a checkbox.
 - Added a background opacity slider.
 - Per character window position saves.
+- Added New Command to toggle packrat window
+    * /packrat or /pr
+        - /pr   (open settings window)
+        - /pr h (toggle main inventory tracking window on/off)
 
 ## Screenshot
 
@@ -34,7 +38,7 @@ Great for tracking:
 
 * Download and unzip the correct version of Packrat at https://github.com/Mr-Sithel/packrat/releases/
 * Copy the `packrat` folder inside of the `packrat-main` folder into your Ashita addons directory
-* Works on `Ashita (Interface v4.30+)`, but Horizon is currently using `Packrat (Interface v4.16)` and should still work fine.
+* Works on `Ashita (Interface v4.30+)`
 * You can load the addon by typing `/load addon packrat`.  It is recommended you add this line to the appropriate place in `scripts/default.txt`
 
 #### Credit
