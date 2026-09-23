@@ -42,7 +42,7 @@ Great for tracking:
 
 ### Installation
 
-* Download and unzip the correct version of Packrat at 
+* Download and unzip version 2 of Packrat at [Packrat 2.0](https://github.com/Mr-Sithel/packrat/releases/download/1.1/Packrat-2.0.zip)
 * Copy the `packrat` folder inside of the `packrat-main` folder into your Ashita addons directory
 * Works on `Ashita (Interface v4.30+)`
 * You can load the addon by typing `/load addon packrat`.  It is recommended you add this line to the appropriate place in `scripts/default.txt`
