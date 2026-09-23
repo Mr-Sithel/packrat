@@ -5,9 +5,11 @@ I added the addon here to keep it alive but it is no longer maintained aside fro
 
 Packrat is a simple inventory item tracker addon for Ashita V4.  Open up its configuration via `/packrat` or `/pr` , select the items you'd like to track, and enjoy!
 
-As of 2/2/2025 it still currently works on Horizon's private server with Ashita v4
+## New Features as of 09/23/2026
 
-* Download and unzip Packrat at [Releases](https://github.com/Mr-Sithel/packrat/releases/)
+- Toggle icons on/off for default vertical mode.
+- Rearrange order of items.
+- All items are now white with color changing remaining number of items.
 
 ## Changes
 
