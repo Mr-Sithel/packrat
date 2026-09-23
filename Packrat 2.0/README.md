@@ -25,7 +25,9 @@ This is a new branch of the same addon with added extra features the original di
 
 ## Screenshot
 
-![Packrat]()
+![Packrat](https://github.com/Mr-Sithel/packrat/blob/Pactrat-2.0/Packrat%202.0/Example.png?raw=true)
+
+![Packrat2](https://github.com/Mr-Sithel/packrat/blob/Pactrat-2.0/Packrat%202.0/Example2.png?raw=true)
 
 Great for tracking:
 
