@@ -7,6 +7,12 @@ Packrat is a simple inventory item tracker addon for Ashita V4.  Open up its con
 
 This is a new branch of the same addon with added extra features the original didn't have.
 
+### Private Server Approval
+
+| Server | Status | Date |
+| :--- | :--- | :--- |
+| **PhoenixXI** | ${\textsf{\color{green}{Approved}}}$ | 09-30-2026 |
+
 ## New Features as of 09/23/2026
 
 - Toggle icons on/off for default vertical mode.
