@@ -9,6 +9,12 @@ As of 2/2/2025 it still currently works on Horizon's private server with Ashita 
 
 * Download and unzip Packrat at [Releases](https://github.com/Mr-Sithel/packrat/releases/)
 
+### Private Server Approval
+
+| Server | Status | Date |
+| :--- | :--- | :--- |
+| **PhoenixXI** | ${\textsf{\color{green}{Approved}}}$ | 09-30-2026 |
+
 ## Changes
 
 - Added a vertical and horizontal mode all in one via a checkbox.
